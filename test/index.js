@@ -1,0 +1,6 @@
+console.log("Hello")
+console.log("World")
+console.logt("How are you dping?")
+console.log("I am fine")
+console.log("perfect")
+console.log("new add")
